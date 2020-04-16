@@ -28,7 +28,7 @@ twitter_username: SpeedyRecoveryPT
 github_username:  SpeedyRecoveryPT
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#taking this off as it is a non-github native theme - theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
